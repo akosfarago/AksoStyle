@@ -1,8 +1,8 @@
--  My name is Ákos Faragó
--  I’m interested in hobby programming (C, C#, Java, JavaScript, Python, TypeScript etc.).
--  I study in the University of Szeged as a Computer Science student
--  I’m looking to collaborate on learning programming deeper, and make projects, gonna push them and trynna help my and others projects within
--  You are able to reach me in mail - faragoakos@faragoakos.hu 
+- Akos Farago - Hungarian - student of University of Szeged, Computer Science (6th semester). 
+- Programming is actually my life
+- Later wanna be a full stack dev.
+- currently Frontend is my best (Angular, React, TypeScript, JavaScript, JQuery)
+- Backend (Express framework, Node.js, Js, PHP)
 
 <!---
 AksoStyle/AksoStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
